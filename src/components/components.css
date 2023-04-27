@@ -1,0 +1,45 @@
+.body {
+  color: white;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  position: absolute;
+  background-color: #352f2f;
+  align-items: center;
+}
+.form-control {
+  background-color: #292525;
+  color: white;
+}
+.close {
+  float: right;
+  font-size: 21px;
+  font-weight: 700;
+  line-height: 1;
+  color: #861919;
+  text-shadow: 0 1px 0 #fff;
+  filter: alpha(opacity=20);
+  opacity: 0.2;
+}
+.logo {
+  height: 35px;
+  width: 40px;
+  border-radius: 5px;
+  margin: 0 15px;
+}
+
+.addnote {
+  color: white;
+  max-width: 500px;
+  margin: 50px auto;
+  align-items: center;
+  justify-content: center;
+  background-color: #2f3143;
+  padding: 40px;
+  border-radius: 20px;
+}
+.note {
+  background-color: #1d2637;
+  border-radius: 10px;
+  padding: 10px;
+}
